@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="kaffe\FlatWhite.cs" />
+  </ItemGroup>
+
 </Project>
